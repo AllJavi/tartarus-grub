@@ -35,9 +35,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 If all works correctly you should get this line in the out put:
 ```bash
-...
 Found theme: /usr/share/grub/themes/tartarus/theme.txt
-...
 ```
 
 ## Credit
