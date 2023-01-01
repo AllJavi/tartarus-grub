@@ -20,6 +20,8 @@
 
 ## Compatibility
 This should work on any Linux distribution that uses GRUB, but I have only tested it on EndeavourOS and Kali
+### For Fedora 37
+Comment out `'GRUB_TERMINAL_OUTPUT="console"` line in your `/etc/default/grub` file.
 
 ## Install
 ```bash
