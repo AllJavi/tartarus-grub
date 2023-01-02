@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="/img/bill.png" width=300/>
-    <h1 style="color:#d4be98">Tartarus grub</h1>
+    <img src="/img/README-decorator.png" width=300/>
     <a href="https://github.com/AllJavi/tartarus-grub/stargazers">
         <img src="https://img.shields.io/github/stars/AllJavi/tartarus-grub?color=a9b665&style=for-the-badge&logo=starship">
     </a>
@@ -20,8 +19,6 @@
 
 ## Compatibility
 This should work on any Linux distribution that uses GRUB, but I have only tested it on EndeavourOS and Kali
-### For Fedora 37
-Comment out `'GRUB_TERMINAL_OUTPUT="console"` line in your `/etc/default/grub` file.
 
 ## Install
 ```bash
@@ -39,6 +36,9 @@ If all works correctly you should get this line in the out put:
 ```bash
 Found theme: /usr/share/grub/themes/tartarus/theme.txt
 ```
+
+### NOTE: For Fedora 37
+When editing the file `/etc/default/grub`, you also have to comment out `'GRUB_TERMINAL_OUTPUT="console"`
 
 ## Credit
 - [Cute Ghost profile](https://www.flaticon.com/free-icon/ghost_1150381?term=ghost&page=1&position=52&page=1&position=52&related_id=1150381&origin=style)
