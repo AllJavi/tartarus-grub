@@ -38,7 +38,7 @@ Found theme: /usr/share/grub/themes/tartarus/theme.txt
 ```
 
 ### NOTE: For Fedora 37
-When editing the file `/etc/default/grub`, you also have to comment out `'GRUB_TERMINAL_OUTPUT="console"`
+When editing the file `/etc/default/grub`, you also have to comment the line `'GRUB_TERMINAL_OUTPUT="console"`
 
 ## Credit
 - [Cute Ghost profile](https://www.flaticon.com/free-icon/ghost_1150381?term=ghost&page=1&position=52&page=1&position=52&related_id=1150381&origin=style)
