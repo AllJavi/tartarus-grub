@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="/img/README-decorator.png" width=300/>
-    
+    <img src="/img/README-decorator.png" width=300/><br/>
     <a href="https://github.com/AllJavi/tartarus-grub/stargazers">
         <img src="https://img.shields.io/github/stars/AllJavi/tartarus-grub?color=a9b665&style=for-the-badge&logo=starship">
     </a>
