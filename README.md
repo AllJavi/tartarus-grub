@@ -37,7 +37,7 @@ If all works correctly you should get this line in the out put:
 Found theme: /usr/share/grub/themes/tartarus/theme.txt
 ```
 
-### NOTE: For Fedora 37
+#### NOTE: For Fedora 37
 When editing the file `/etc/default/grub`, you also have to comment the line `'GRUB_TERMINAL_OUTPUT="console"`
 
 ## Credit
